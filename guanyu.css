@@ -1,0 +1,12 @@
+body{
+margin:0px;
+padding:0px; 
+font:12px verdana;
+
+}
+#container{
+    margin-left:auto;
+    margin-right:auto;
+    width:1024px;
+	height:700px;
+}
