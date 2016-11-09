@@ -1,0 +1,15 @@
+body{
+margin:0;
+padding:0;
+font:12px verdana;
+background-color: lightgray;
+}
+
+#container{
+    padding-top: 15px;
+    padding-left:20px;
+    margin:0 auto;
+    width:1004px;
+	height:700px;
+    background: url("../guanwang/img/bg1.jpg");
+}

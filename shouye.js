@@ -3,55 +3,55 @@ function show(obj){
 	var id = obj.id;
 	//alter(id);
 	if(id=="a"){
-		obj.src="shun21.png";
+		obj.src="../guanwang/img/shun21.png";
 		var img = document.getElementById("yemian");
-		img.src="91.png";
+		img.src="../guanwang/img/91.png";
 	}
 	
 	else if(id=="b"){
-		obj.src="shun22.png";
+		obj.src="../guanwang/img/shun22.png";
 		var img = document.getElementById("yemian");
-		img.src="92.png";
+		img.src="../guanwang/img/92.png";
 	}
 	
 	 else if(id=="c"){
-		obj.src="shun23.png";
+		obj.src="../guanwang/img/shun23.png";
 		var img = document.getElementById("yemian");
-		img.src="91.png";
+		img.src="../guanwang/img/91.png";
 	}
 	
 	else if(id=="d"){
-		obj.src="shun24.png";
+		obj.src="../guanwang/img/shun24.png";
 		var img = document.getElementById("yemian");
-		img.src="94.png";
+		img.src="../guanwang/img/94.png";
 	}
 	
 	else if(id=="e"){
-		obj.src="shun25.png";
+		obj.src="../guanwang/img/shun25.png";
 		var img = document.getElementById("yemian");
-		img.src="95.png";
+		img.src="../guanwang/img/95.png";
 	} 
 }
 
 function likai(obj){
      var id=obj.id;
 	 if(id=="a"){
-	   obj.src="shun31.png";
+	   obj.src="../guanwang/img/shun31.png";
 	 }
 	 
 	 else if(id=="b"){
-	   obj.src="shun32.png";
+	   obj.src="../guanwang/img/shun32.png";
 	 }
 	 
 	  else if(id=="c"){
-	   obj.src="shun33.png";
+	   obj.src="../guanwang/img/shun33.png";
 	 }
 	 
 	 else if(id=="d"){
-	   obj.src="shun34.png";
+	   obj.src="../guanwang/img/shun34.png";
 	 }
 	 
 	 else if(id=="e"){
-	   obj.src="shun35.png";
+	   obj.src="../guanwang/img/shun35.png";
 	 } 
 }
